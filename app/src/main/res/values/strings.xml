@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Paytm</string>
+    <string name="welcome_message">Welcome to PaymentDemo</string>
+    <string name="electricity_bill">Electricity Bill</string>
+    <string name="mobile_recharge">Mobile Recharge</string>
+    <string name="dth_recharge">DTH Recharge</string>
+    <string name="water_bill">Water Bill</string>
+    <string name="electricity_bill_payment">Electricity Bill Payment</string>
+    <string name="consumer_number">Consumer Number</string>
+    <string name="amount">Amount (₹)</string>
+    <string name="biller_name">Biller Name</string>
+    <string name="pay_now">Pay Now</string>
+    <string name="payment_receipt">Payment Receipt</string>
+    <string name="transaction_id">Transaction ID</string>
+    <string name="Amount">Amount(₹)</string>
+    <string name="status">Status</string>
+    <string name="done">Done</string>
+    <string name="enter_consumer_number">Enter Consumer Number</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="enter_biller_name">Enter Biller Name</string>
+</resources>
